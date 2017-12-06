@@ -1,0 +1,82 @@
+.header {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    margin-left: 45px;
+    padding-top: 13px;
+    padding-bottom: 0px;
+    margin-bottom: -29px;
+}
+
+.headername {
+	font-weight: bold;
+	font-size: 70px;
+}
+.topbar {
+    background-color: #D3D3D3;
+    margin-left: -8px;
+    margin-top: -72px;
+    margin-bottom: -1px;
+    padding-bottom: 1px;
+}
+
+.headertitle{
+    font-weight: 100;
+    font-size: 54px;
+    padding-top: 0px;
+    margin-left: 125px;
+    margin-top: -90px;
+    clear: left;
+}
+.sitemap {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    text-align: right;
+    margin-right: 21px;
+    margin-top: 30px;
+}
+
+.sidebar {
+    background-color: #D3D3D3;
+    float: left;
+    width: 10%;
+    height: 100vmax;
+    display: block;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    margin-left: -9px;
+    padding-top: 0px;
+    margin-right: -2px;
+    padding-right: 1px;
+}
+.sitemaphead {
+	
+}
+
+.content {
+    float: left;
+    text-align: left;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: xx-large;
+    padding-top: 0px;
+    margin-top: -37px;
+}
+.mainpage {
+    float: left;
+    max-width: 85%;
+    margin-left: 29px;
+    margin-top: 21px;
+    padding-top: 0px;
+}
+.textbody {
+    font-size: 10pt;
+    margin-right: 50%;
+    float: left;
+    margin-top: -30px;
+}
+
+.PhotoFinal {
+    float: left;
+    margin-top: 25px;
+}
+.text {
+    clear: left;	
+}
